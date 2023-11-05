@@ -6,6 +6,6 @@ def printthenums(numbers):
         mylist.append(int(i))
     print(sum(mylist))
 
-UserInput = input("enter 5 digits number:")
+UserInput = "123456"
 
 printthenums(UserInput)
